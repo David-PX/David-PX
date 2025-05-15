@@ -1,7 +1,7 @@
 <!-- Optional animated header -->
 <h1 align="center">Hi there, I'm David 👋</h1>
 <p align="center">
-  Full Stack Developer | Cloud & DevOps Enthusiast | Clean Code Advocate
+  Software Engineer | Cloud & DevOps | Full Stack Developer
 </p>
 <hr/>
 
@@ -47,8 +47,11 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [FeastForge](https://github.com/David-PX/feastforge) | Microservices architecture for food donation platform | Node.js, NestJS, Docker, AWS |
-| [SABG](https://github.com/David-PX/sabg) | Clean Architecture API using .NET 8 | .NET 8, MySQL, Vault, Docker |
+| [FeastForge](https://github.com/David-PX/feastforge) | Microservices architecture for food donation system | Node.js, NestJS, Docker, AWS |
+| [SABG](https://github.com/David-PX/sabg) | Clean Architecture API for business gateway | .NET 8, MySQL, Vault |
+| [INTEConnect API](https://github.com/CampusTecNode/WEB.API.INTCX) | Modular .NET backend for university system | .NET 8, EF Core, MySQL |
+| [Nest Products App](https://github.com/nest-products-app) | E-commerce API built with NestJS and Swagger | NestJS, TypeORM, PostgreSQL |
+| [Asfales](https://github.com/Asfales) | Multimodal travel planner with predictive alerts | React, Node.js, GCP, MongoDB |
 
 ## 📈 GitHub Stats
 <p align="left">
@@ -60,3 +63,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-solano-a766731b0/)
 [![Email](https://img.shields.io/badge/Email-d14836?logo=gmail&logoColor=white)](mailto:desolanocastro26@gmail.com)
+
+---
+
+<p align="center">
+  🚀 Always learning. Always building. Let’s connect and create something amazing.
+</p>
